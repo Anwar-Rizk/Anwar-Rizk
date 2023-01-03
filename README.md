@@ -6,9 +6,9 @@
 
 <br>
 	
-## <picture><img src = "https://github.com/Anwar-Rizk/Anwar-Rizk/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/Anwar-Rizk/Anwar-Rizk/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/Anwar-Rizk/Anwar-Rizk/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Anwar-Rizk/Anwar-Rizk/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
@@ -18,12 +18,14 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-[comment]: <> - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
-[comment]: <> - :boom: You can visit my website from [here]().
+<!--
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
+- :boom: You can visit my website from [here]().
+-->
 <br>
 
 
-## <picture> <img src="https://github.com/Anwar-Rizk/Anwar-Rizk/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+## <picture> <img src="https://github.com/Anwar-Rizk/Anwar-Rizk/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/Anwar_Rizk"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
@@ -34,7 +36,7 @@
 	<a href="https://www.codingame.com/profile/9c2e4790f5243db85e452cd5b3feb4a46321864" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
 
-## <picture> <img src="https://github.com/Anwar-Rizk/Anwar-Rizk/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/Anwar-Rizk/Anwar-Rizk/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:anwar01285593087@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Anwar-Rizk"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -48,7 +50,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/Anwar-Rizk/Anwar-Rizk/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/Anwar-Rizk/Anwar-Rizk/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -73,7 +75,7 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/Anwar-Rizk/Anwar-Rizk/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/Anwar-Rizk/Anwar-Rizk/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -93,7 +95,7 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/Anwar-Rizk/Anwar-Rizk/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/Anwar-Rizk/Anwar-Rizk/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
   &emsp;
@@ -122,7 +124,7 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/Anwar-Rizk/Anwar-Rizk/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
+ ### <picture> <img src = "https://github.com/Anwar-Rizk/Anwar-Rizk/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
@@ -139,7 +141,7 @@
     <a href="#"><img alt = "CodinGame" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/Anwar-Rizk/Anwar-Rizk/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### <picture> <img src = "https://github.com/Anwar-Rizk/Anwar-Rizk/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
